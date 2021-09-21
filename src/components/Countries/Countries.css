@@ -1,0 +1,7 @@
+.countries-wrapper{
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr 1fr;
+   grid-gap: 20px;
+   width: 85%;
+   margin: 20px auto;
+}
